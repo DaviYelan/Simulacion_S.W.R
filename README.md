@@ -142,7 +142,7 @@ Ventana principal con controles.
 
 
 
-## 🎯Preubas de la Simulación (SWR)
+## 🎯Pruebas de la Simulación (SWR)
 ![alt text](image500.png)
 En la simulación de 500 pasos válidos, el recorrido mostrado en el grid es más compacto y presenta una dispersión moderada alrededor de la posición inicial.
 A la izquierda se presentan los controles y estadísticas en tiempo real: pasos válidos, inválidos, eficiencia, total de intentos y estado final. En el área central se visualiza el grid con el camino en azul, la posición inicial en verde y la posición actual en rojo.
@@ -224,11 +224,14 @@ SAW (Self-Avoiding Walk):
 - Exportar datos a CSV para análisis
 - Diferentes distribuciones de probabilidad por dirección
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Luis Armijos
+
 Anthony Gutierrez
+
 Ariana Sarango
+
 Miguel Luna
 
 ---
